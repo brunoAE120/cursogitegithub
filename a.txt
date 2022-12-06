@@ -3,3 +3,6 @@ uma
 nova 
 atualização
 2
+enviando
+a 
+funcionalidade X
